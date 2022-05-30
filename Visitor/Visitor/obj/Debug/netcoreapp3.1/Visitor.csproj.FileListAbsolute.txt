@@ -1,0 +1,13 @@
+E:\C#Projects\Visitor\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+E:\C#Projects\Visitor\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+E:\C#Projects\Visitor\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+E:\C#Projects\Visitor\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+E:\C#Projects\Visitor\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+E:\C#Projects\Visitor\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+E:\C#Projects\Visitor\Visitor\obj\Debug\netcoreapp3.1\Visitor.csprojAssemblyReference.cache
+E:\C#Projects\Visitor\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+E:\C#Projects\Visitor\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+E:\C#Projects\Visitor\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.CoreCompileInputs.cache
+E:\C#Projects\Visitor\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+E:\C#Projects\Visitor\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
+E:\C#Projects\Visitor\Visitor\obj\Debug\netcoreapp3.1\Visitor.genruntimeconfig.cache
