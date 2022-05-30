@@ -1,0 +1,13 @@
+E:\Visual Studio\Praktika_25\Praktika_25\bin\Debug\netcoreapp3.1\Praktika_25.exe
+E:\Visual Studio\Praktika_25\Praktika_25\bin\Debug\netcoreapp3.1\Praktika_25.deps.json
+E:\Visual Studio\Praktika_25\Praktika_25\bin\Debug\netcoreapp3.1\Praktika_25.runtimeconfig.json
+E:\Visual Studio\Praktika_25\Praktika_25\bin\Debug\netcoreapp3.1\Praktika_25.runtimeconfig.dev.json
+E:\Visual Studio\Praktika_25\Praktika_25\bin\Debug\netcoreapp3.1\Praktika_25.dll
+E:\Visual Studio\Praktika_25\Praktika_25\bin\Debug\netcoreapp3.1\Praktika_25.pdb
+E:\Visual Studio\Praktika_25\Praktika_25\obj\Debug\netcoreapp3.1\Praktika_25.csprojAssemblyReference.cache
+E:\Visual Studio\Praktika_25\Praktika_25\obj\Debug\netcoreapp3.1\Praktika_25.AssemblyInfoInputs.cache
+E:\Visual Studio\Praktika_25\Praktika_25\obj\Debug\netcoreapp3.1\Praktika_25.AssemblyInfo.cs
+E:\Visual Studio\Praktika_25\Praktika_25\obj\Debug\netcoreapp3.1\Praktika_25.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Praktika_25\Praktika_25\obj\Debug\netcoreapp3.1\Praktika_25.dll
+E:\Visual Studio\Praktika_25\Praktika_25\obj\Debug\netcoreapp3.1\Praktika_25.pdb
+E:\Visual Studio\Praktika_25\Praktika_25\obj\Debug\netcoreapp3.1\Praktika_25.genruntimeconfig.cache
