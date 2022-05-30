@@ -1,0 +1,13 @@
+E:\Visual Studio\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+E:\Visual Studio\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+E:\Visual Studio\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+E:\Visual Studio\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+E:\Visual Studio\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+E:\Visual Studio\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+E:\Visual Studio\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+E:\Visual Studio\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+E:\Visual Studio\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+E:\Visual Studio\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+E:\Visual Studio\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+E:\Visual Studio\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
