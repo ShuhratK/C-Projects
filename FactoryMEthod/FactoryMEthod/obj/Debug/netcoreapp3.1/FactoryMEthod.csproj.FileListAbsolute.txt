@@ -1,0 +1,13 @@
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\bin\Debug\netcoreapp3.1\FactoryMEthod.exe
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\bin\Debug\netcoreapp3.1\FactoryMEthod.deps.json
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\bin\Debug\netcoreapp3.1\FactoryMEthod.runtimeconfig.json
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\bin\Debug\netcoreapp3.1\FactoryMEthod.runtimeconfig.dev.json
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\bin\Debug\netcoreapp3.1\FactoryMEthod.dll
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\bin\Debug\netcoreapp3.1\FactoryMEthod.pdb
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\obj\Debug\netcoreapp3.1\FactoryMEthod.csprojAssemblyReference.cache
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\obj\Debug\netcoreapp3.1\FactoryMEthod.AssemblyInfoInputs.cache
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\obj\Debug\netcoreapp3.1\FactoryMEthod.AssemblyInfo.cs
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\obj\Debug\netcoreapp3.1\FactoryMEthod.csproj.CoreCompileInputs.cache
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\obj\Debug\netcoreapp3.1\FactoryMEthod.dll
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\obj\Debug\netcoreapp3.1\FactoryMEthod.pdb
+E:\Visual Studio\FactoryMEthod\FactoryMEthod\obj\Debug\netcoreapp3.1\FactoryMEthod.genruntimeconfig.cache

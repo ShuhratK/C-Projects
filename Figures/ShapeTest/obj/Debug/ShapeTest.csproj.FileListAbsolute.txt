@@ -1,0 +1,11 @@
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\obj\Debug\ShapeTest.csprojAssemblyReference.cache
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\obj\Debug\ShapeTest.csproj.CoreCompileInputs.cache
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\bin\Debug\ShapeTest.dll
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\bin\Debug\ShapeTest.pdb
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\bin\Debug\nunit.framework.dll
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\bin\Debug\nunit.framework.xml
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\obj\Debug\ShapeTest.csproj.CopyComplete
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\obj\Debug\ShapeTest.dll
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\obj\Debug\ShapeTest.pdb
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\bin\Debug\Figures.dll
+D:\Users\gorko\Documents\C#Projects\Figures\ShapeTest\bin\Debug\Figures.pdb
