@@ -1,0 +1,6 @@
+E:\Visual Studio\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe
+E:\Visual Studio\FlyWeight\FlyWeight\bin\Debug\FlyWeight.pdb
+E:\Visual Studio\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csprojAssemblyReference.cache
+E:\Visual Studio\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csproj.CoreCompileInputs.cache
+E:\Visual Studio\FlyWeight\FlyWeight\obj\Debug\FlyWeight.exe
+E:\Visual Studio\FlyWeight\FlyWeight\obj\Debug\FlyWeight.pdb

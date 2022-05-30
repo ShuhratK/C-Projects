@@ -1,0 +1,9 @@
+E:\C#Projects\Iterator\State\State\bin\Debug\netstandard2.1\State.deps.json
+E:\C#Projects\Iterator\State\State\bin\Debug\netstandard2.1\State.dll
+E:\C#Projects\Iterator\State\State\bin\Debug\netstandard2.1\State.pdb
+E:\C#Projects\Iterator\State\State\obj\Debug\netstandard2.1\State.csprojAssemblyReference.cache
+E:\C#Projects\Iterator\State\State\obj\Debug\netstandard2.1\State.AssemblyInfoInputs.cache
+E:\C#Projects\Iterator\State\State\obj\Debug\netstandard2.1\State.AssemblyInfo.cs
+E:\C#Projects\Iterator\State\State\obj\Debug\netstandard2.1\State.csproj.CoreCompileInputs.cache
+E:\C#Projects\Iterator\State\State\obj\Debug\netstandard2.1\State.dll
+E:\C#Projects\Iterator\State\State\obj\Debug\netstandard2.1\State.pdb
