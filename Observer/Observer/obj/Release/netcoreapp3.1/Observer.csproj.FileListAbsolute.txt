@@ -1,0 +1,13 @@
+E:\Visual Studio\Observer\Observer\bin\Release\netcoreapp3.1\Observer.exe
+E:\Visual Studio\Observer\Observer\bin\Release\netcoreapp3.1\Observer.deps.json
+E:\Visual Studio\Observer\Observer\bin\Release\netcoreapp3.1\Observer.runtimeconfig.json
+E:\Visual Studio\Observer\Observer\bin\Release\netcoreapp3.1\Observer.runtimeconfig.dev.json
+E:\Visual Studio\Observer\Observer\bin\Release\netcoreapp3.1\Observer.dll
+E:\Visual Studio\Observer\Observer\bin\Release\netcoreapp3.1\Observer.pdb
+E:\Visual Studio\Observer\Observer\obj\Release\netcoreapp3.1\Observer.csprojAssemblyReference.cache
+E:\Visual Studio\Observer\Observer\obj\Release\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+E:\Visual Studio\Observer\Observer\obj\Release\netcoreapp3.1\Observer.AssemblyInfo.cs
+E:\Visual Studio\Observer\Observer\obj\Release\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Observer\Observer\obj\Release\netcoreapp3.1\Observer.dll
+E:\Visual Studio\Observer\Observer\obj\Release\netcoreapp3.1\Observer.pdb
+E:\Visual Studio\Observer\Observer\obj\Release\netcoreapp3.1\Observer.genruntimeconfig.cache
