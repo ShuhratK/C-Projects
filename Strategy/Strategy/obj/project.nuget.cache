@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JODndQBiK3J0E0YPESWpef2r/1XVtIB16tseQ9MvRKt2g4RjX5r/VqZQpfxqo+ODOuHZ8J1UCDdLM6Oev/olGg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\gorko\\documents\\C#Projects\\Strategy\\Strategy\\Strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorko\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gorko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gorko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gorko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

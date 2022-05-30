@@ -1,0 +1,26 @@
+E:\Visual Studio\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+E:\Visual Studio\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+E:\Visual Studio\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+E:\Visual Studio\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+E:\Visual Studio\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+E:\Visual Studio\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+E:\Visual Studio\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+E:\Visual Studio\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+E:\Visual Studio\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+E:\Visual Studio\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+E:\Visual Studio\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+E:\Visual Studio\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+D:\Users\gorko\documents\C#Projects\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
